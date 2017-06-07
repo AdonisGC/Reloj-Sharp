@@ -1,0 +1,64 @@
+c:\users\26652720k\documents\visual studio 2015\Projects\Reloj\Reloj\bin\Debug\Reloj.exe.config
+C:\Users\26652720k\Documents\Visual Studio 2015\Projects\Reloj\Reloj\bin\Debug\Reloj.exe
+C:\Users\26652720k\Documents\Visual Studio 2015\Projects\Reloj\Reloj\bin\Debug\Reloj.pdb
+C:\Users\26652720k\Documents\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.csprojResolveAssemblyReference.cache
+C:\Users\26652720k\Documents\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.g.cs
+C:\Users\26652720k\Documents\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\App.g.cs
+C:\Users\26652720k\Documents\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj_MarkupCompile.cache
+C:\Users\26652720k\Documents\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj_MarkupCompile.lref
+C:\Users\26652720k\Documents\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.baml
+C:\Users\26652720k\Documents\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.g.resources
+C:\Users\26652720k\Documents\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.Properties.Resources.resources
+C:\Users\26652720k\Documents\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.csproj.GenerateResource.Cache
+C:\Users\26652720k\Documents\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.exe
+C:\Users\26652720k\Documents\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.pdb
+F:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\bin\Debug\Reloj.exe.config
+F:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.exe
+F:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.pdb
+F:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\bin\Debug\Reloj.exe
+F:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\bin\Debug\Reloj.pdb
+F:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.csprojResolveAssemblyReference.cache
+F:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.g.cs
+F:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\App.g.cs
+F:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj_MarkupCompile.cache
+F:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj_MarkupCompile.lref
+F:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.baml
+F:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.g.resources
+F:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.Properties.Resources.resources
+F:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.csproj.GenerateResource.Cache
+E:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\bin\Debug\Reloj.exe.config
+E:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.exe
+E:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.pdb
+E:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\bin\Debug\Reloj.exe
+E:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\bin\Debug\Reloj.pdb
+E:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.csprojResolveAssemblyReference.cache
+E:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.g.cs
+E:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\App.g.cs
+E:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj_MarkupCompile.cache
+E:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj_MarkupCompile.lref
+E:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.baml
+E:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.g.resources
+E:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.Properties.Resources.resources
+E:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Reloj.csproj.GenerateResource.Cache
+E:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Input.g.cs
+E:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\Input.baml
+E:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\DeleteWindow.g.cs
+E:\Class\M07\UF1 - Disseny i implementació d'interfícies\Visual Studio 2015\Projects\Reloj\Reloj\obj\Debug\DeleteWindow.baml
+C:\Users\adoni\Desktop\Alarma\Reloj\bin\Debug\Reloj.exe.config
+C:\Users\adoni\Desktop\Alarma\Reloj\obj\Debug\Reloj.exe
+C:\Users\adoni\Desktop\Alarma\Reloj\obj\Debug\Reloj.pdb
+C:\Users\adoni\Desktop\Alarma\Reloj\bin\Debug\Reloj.exe
+C:\Users\adoni\Desktop\Alarma\Reloj\bin\Debug\Reloj.pdb
+C:\Users\adoni\Desktop\Alarma\Reloj\obj\Debug\Reloj.csprojResolveAssemblyReference.cache
+C:\Users\adoni\Desktop\Alarma\Reloj\obj\Debug\DeleteWindow.g.cs
+C:\Users\adoni\Desktop\Alarma\Reloj\obj\Debug\Reloj.g.cs
+C:\Users\adoni\Desktop\Alarma\Reloj\obj\Debug\Input.g.cs
+C:\Users\adoni\Desktop\Alarma\Reloj\obj\Debug\App.g.cs
+C:\Users\adoni\Desktop\Alarma\Reloj\obj\Debug\Reloj_MarkupCompile.cache
+C:\Users\adoni\Desktop\Alarma\Reloj\obj\Debug\Reloj_MarkupCompile.lref
+C:\Users\adoni\Desktop\Alarma\Reloj\obj\Debug\DeleteWindow.baml
+C:\Users\adoni\Desktop\Alarma\Reloj\obj\Debug\Reloj.baml
+C:\Users\adoni\Desktop\Alarma\Reloj\obj\Debug\Input.baml
+C:\Users\adoni\Desktop\Alarma\Reloj\obj\Debug\Reloj.g.resources
+C:\Users\adoni\Desktop\Alarma\Reloj\obj\Debug\Reloj.Properties.Resources.resources
+C:\Users\adoni\Desktop\Alarma\Reloj\obj\Debug\Reloj.csproj.GenerateResource.Cache
